@@ -190,13 +190,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn imbalanced-learn
 ```bash
 git clone https://github.com/your-username/intelligent-credit-card-fraud-detection.git
 ```
-
-2. Install required libraries:
-```bash
-pip install -r requirements.txt
-```
-
-3. Open the notebook in Jupyter or Colab and run all cells.
+2. Open the notebook in Jupyter or Colab and run all cells.
 
 ---
 
